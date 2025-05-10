@@ -1,0 +1,14 @@
+G:\Csharp\quizGame\bin\Debug\net9.0\quizGame.exe
+G:\Csharp\quizGame\bin\Debug\net9.0\quizGame.deps.json
+G:\Csharp\quizGame\bin\Debug\net9.0\quizGame.runtimeconfig.json
+G:\Csharp\quizGame\bin\Debug\net9.0\quizGame.dll
+G:\Csharp\quizGame\bin\Debug\net9.0\quizGame.pdb
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.GeneratedMSBuildEditorConfig.editorconfig
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.AssemblyInfoInputs.cache
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.AssemblyInfo.cs
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.csproj.CoreCompileInputs.cache
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.dll
+G:\Csharp\quizGame\obj\Debug\net9.0\refint\quizGame.dll
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.pdb
+G:\Csharp\quizGame\obj\Debug\net9.0\quizGame.genruntimeconfig.cache
+G:\Csharp\quizGame\obj\Debug\net9.0\ref\quizGame.dll
